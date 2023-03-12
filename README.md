@@ -49,6 +49,17 @@ We hope to contribute to improving the diagnosis and treatment of brain tumors, 
 
 The U-Net algorithm is a convolutional neural network architecture that is widely used for image segmentation tasks, particularly in the medical field. It was proposed by researchers at the University of Freiburg in 2015 and consists of an encoder path and a decoder path. The U-Net architecture is effective at identifying object boundaries in images and has been used for tasks such as brain tumor detection. It has achieved state-of-the-art results in several image segmentation challenges and is a popular choice for deep learning practitioners.
 
+Using U-Net you can make one of the most impressive result in the world of Object Detection which is Segmentation 
+
+<div align="center">
+<a href="#">
+    <img src="images/download.jpeg" alt="Logo">
+  </a>
+</div>
+<br>
+
+Object Segmentation is the process of identifying and classifying each pixel in an image. It is a very important task in computer vision, as it is the first step in many applications, such as autonomous driving, medical imaging, and augmented reality.
+
 ## Dataset
 <div align="center">
 <a href="#">
