@@ -112,7 +112,7 @@ _The project's concept may seem a little sophisticated, but the steps for gettin
 
 3. Go To the Real Time Series Folder
    ```
-   cd BRAIN_TUMOR/
+   cd Project App/
    ```
 
 4. Install Django packages
