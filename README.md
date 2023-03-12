@@ -132,6 +132,7 @@ _The project's concept may seem a little sophisticated, but the steps for gettin
    ```
     python manage.py runserver
     ```
+7. Note that you need to train the model before using the application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
